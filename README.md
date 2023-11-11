@@ -1,5 +1,4 @@
 # The Ingenious Tip Calculator
-# The Ingenious Tip Calculator
 
 Welcome to The Ingenious Tip Calculator, a modern web application that calculates tip amounts and total bill amounts based on the bill amount and tip percentage.
 
