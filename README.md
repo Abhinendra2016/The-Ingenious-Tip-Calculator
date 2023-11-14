@@ -26,7 +26,7 @@ The Ingenious Tip Calculator is a user-friendly application with a modern user i
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Abhinendra2016/ingenious-tip-calculator.git
+    git clone https://github.com/Abhinendra2016/The-Ingenious-Tip-Calculator.git
     ```
 
 2. Open the `index.html` file in your web browser.
